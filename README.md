@@ -17,8 +17,10 @@ An interactive, real-time **Retrieval-Augmented Generation (RAG)** system that a
 
 ## Demo
 
-![Streamlit UI](screenshots/demo.png)  
-*Example query:*  
+![Streamlit UI](screenshots/demo.png)
+
+*Example query:*
+
 ![Example Answer](screenshots/result.png)
 
 ---
